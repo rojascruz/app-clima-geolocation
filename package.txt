@@ -1,0 +1,6 @@
+
+npm i dotenv
+
+npm i inquirer
+
+npm i colors
